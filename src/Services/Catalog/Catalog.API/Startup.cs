@@ -1,6 +1,7 @@
 using Catalog.API.Data.Context;
 using Catalog.API.Data.Interfaces;
 using Catalog.API.Data.Repository;
+using Common.Logging;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
